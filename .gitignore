@@ -34,3 +34,5 @@ compiled_app_output
 trivy_report*
 compiled
 jest.config.js
+supabase-config.txt
+supabase.env
